@@ -9,7 +9,6 @@ Bu repo, Yapay Zeka Mühendisliği Bölümü'nün 1. dönem müfredatının bir 
 - **Code**: Ödevler kapsamında geliştirilmiş kaynak kodlar.
 - **Örnek Girdi/Çıktı (I/O)**: Ödevlerin test edilmesi için verilen örnek giriş ve çıkış dosyaları.
 
-Bu repo, BBM103 dersinin ilk laboratuvar oturumundaki programlama ödevlerinden oluşan bir derlemedir.
 
 ---
 
@@ -24,7 +23,6 @@ This repository contains assignments from the BBM103 Introduction to Programming
 - **Code**: Source code developed as part of the assignments.
 - **Sample Input/Output (I/O)**: Sample input and output files provided for testing the assignments.
 
-This repository is a collection of programming assignments from the first lab session of the BBM103 course.
 
 
 
